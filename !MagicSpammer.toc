@@ -1,5 +1,0 @@
-## Interface: 100200
-## Title: |cff8ccbffFunPlay|r - |CFF208ee8 Auto-spammer.|r
-## SavedVariablesPerCharacter: Msgs
-other\Frames.lua
-core.lua
