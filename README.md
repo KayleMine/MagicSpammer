@@ -4,6 +4,7 @@
 
 > [!Important]
 > Get an unlocker before use. 
+>
 > Because: https://wowpedia.fandom.com/wiki/API_SendChatMessage
 >
 > [Magic-Box](https://mgxbox.ru/#/)
