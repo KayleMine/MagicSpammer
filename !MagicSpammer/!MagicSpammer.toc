@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 11504, 11503, 20504, 30403, 40400, 40401, 110005, 110000, 110002
 ## Title: |cff8ccbffFunPlay|r - |CFF208ee8 Auto-spammer.|r
 ## SavedVariablesPerCharacter: Msgs
 other\Frames.lua
